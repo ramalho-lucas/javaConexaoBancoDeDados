@@ -27,7 +27,7 @@ Seu principal uso é quando configutado para ser executado em memória, desta fo
 gravados em disco, pois o banco de dados não será utilizado em produção, mas para uso em desenvolvimento e
 testes.
 
-![img.png](images/h2img.png)
+![img.png](images/h2imgteste.png)
 
 ### Utilizando JDBC Prepared Statement
 * A primeira coisa que precisamos saber é a diferença entre uma instrução (statement) e uma instrução
