@@ -1,0 +1,102 @@
+2023-02-03 16:39:17,729 [main]  INFO Main:30 - Abrindo conexao com banco de dados
+2023-02-03 16:39:18,263 [main]  INFO Main:35 - Criando a tabela conta
+2023-02-03 16:39:18,265 [main]  INFO Main:38 - Preparando para popular tabela criada
+2023-02-03 16:39:18,266 [main]  INFO Main:45 - Inserindo conta do Lucas
+2023-02-03 16:39:18,269 [main]  INFO Main:50 - Preparando para atualizar tabela
+2023-02-03 16:39:18,271 [main]  WARN Main:55 - alterando saldo da conta
+2023-02-03 16:39:18,279 [main]  INFO Main:59 - Preparando para atualizar tabela 2x
+2023-02-03 16:39:18,280 [main]  WARN Main:65 - alterando saldo da conta
+2023-02-03 16:39:18,282 [main]  INFO Main:68 - Forcando um erro no script
+2023-02-03 16:39:18,282 [main] ERROR Main:74 - Erro ao executar transação
+2023-02-03 16:39:18,283 [main]  WARN Main:77 - Foi executado um rollback das transações
+2023-02-03 16:39:18,283 [main]  INFO Main:81 - Fechando conexao com banco de dados
+2023-02-03 16:40:43,007 [main]  INFO Main:30 - Abrindo conexao com banco de dados
+2023-02-03 16:40:43,366 [main]  INFO Main:35 - Criando a tabela conta
+2023-02-03 16:40:43,368 [main]  INFO Main:38 - Preparando para popular tabela criada
+2023-02-03 16:40:43,369 [main]  INFO Main:45 - Inserindo conta do Lucas
+2023-02-03 16:40:43,371 [main]  INFO Main:50 - Preparando para atualizar tabela
+2023-02-03 16:40:43,373 [main]  WARN Main:55 - alterando saldo da conta
+2023-02-03 16:40:43,379 [main]  INFO Main:61 - Preparando para atualizar tabela pela 2x. Agora forcando um erro no script
+2023-02-03 16:40:43,380 [main]  WARN Main:67 - alterando saldo da conta
+2023-02-03 16:40:43,382 [main]  INFO Main:70 - Forcando um erro no script
+2023-02-03 16:40:43,382 [main] ERROR Main:76 - Erro ao executar transação
+2023-02-03 16:40:43,382 [main]  WARN Main:79 - Foi executado um rollback das transações
+2023-02-03 16:40:43,383 [main]  INFO Main:83 - Fechando conexao com banco de dados
+2023-02-03 16:43:48,958 [main]  INFO Main:30 - Abrindo conexao com banco de dados
+2023-02-03 16:43:49,349 [main]  INFO Main:35 - Criando a tabela conta
+2023-02-03 16:43:49,352 [main]  INFO Main:38 - Preparando para popular tabela criada
+2023-02-03 16:43:49,353 [main]  INFO Main:45 - Inserindo conta do Lucas
+2023-02-03 16:43:49,355 [main]  INFO Main:50 - Preparando para atualizar tabela
+2023-02-03 16:43:49,357 [main]  INFO Main:55 - Saldo atual da Conta:  20.0
+2023-02-03 16:43:49,357 [main]  WARN Main:56 - alterando saldo da conta
+2023-02-03 16:43:49,365 [main]  INFO Main:59 - Novo Saldo da Conta: 20.0
+2023-02-03 16:43:49,366 [main]  INFO Main:62 - Preparando para atualizar tabela pela 2x. Agora forcando um erro no script
+2023-02-03 16:43:49,366 [main]  INFO Main:67 - Saldo atual da Conta:  35.0
+2023-02-03 16:43:49,366 [main]  WARN Main:68 - alterando saldo da conta
+2023-02-03 16:43:49,366 [main]  INFO Main:71 - Forcando um erro no script
+2023-02-03 16:43:49,367 [main] ERROR Main:78 - Erro ao executar transação
+2023-02-03 16:43:49,367 [main]  INFO Main:79 - Saldo da Conta: 35.0
+2023-02-03 16:43:49,367 [main]  WARN Main:82 - Foi executado um rollback das transações
+2023-02-03 16:43:49,368 [main]  INFO Main:86 - Fechando conexao com banco de dados
+2023-02-03 16:44:30,353 [main]  INFO Main:30 - Abrindo conexao com banco de dados
+2023-02-03 16:44:30,725 [main]  INFO Main:35 - Criando a tabela conta
+2023-02-03 16:44:30,727 [main]  INFO Main:38 - Preparando para popular tabela criada
+2023-02-03 16:44:30,728 [main]  INFO Main:45 - Inserindo conta do Lucas
+2023-02-03 16:44:30,731 [main]  INFO Main:50 - Preparando para atualizar tabela
+2023-02-03 16:44:30,733 [main]  INFO Main:55 - Saldo atual da Conta:  20.0
+2023-02-03 16:44:30,733 [main]  WARN Main:56 - alterando saldo da conta
+2023-02-03 16:44:30,740 [main]  INFO Main:59 - Novo Saldo da Conta: 20.0
+2023-02-03 16:44:30,742 [main]  INFO Main:62 - Preparando para atualizar tabela pela 2x. Agora forcando um erro no script
+2023-02-03 16:44:30,742 [main]  INFO Main:67 - Saldo atual da Conta:  35.0
+2023-02-03 16:44:30,742 [main]  WARN Main:68 - alterando saldo da conta
+2023-02-03 16:44:30,743 [main]  INFO Main:71 - Forcando um erro no script
+2023-02-03 16:44:30,743 [main] ERROR Main:78 - Erro ao executar transação
+2023-02-03 16:44:30,743 [main]  WARN Main:81 - Foi executado um rollback das transações
+2023-02-03 16:44:30,744 [main]  INFO Main:83 - Saldo da Conta: 35.0
+2023-02-03 16:44:30,744 [main]  INFO Main:87 - Fechando conexao com banco de dados
+2023-02-03 16:45:24,796 [main]  INFO Main:30 - Abrindo conexao com banco de dados
+2023-02-03 16:45:24,966 [main]  INFO Main:35 - Criando a tabela conta
+2023-02-03 16:45:24,970 [main]  INFO Main:38 - Preparando para popular tabela criada
+2023-02-03 16:45:24,975 [main]  INFO Main:45 - Inserindo conta do Lucas
+2023-02-03 16:45:24,977 [main]  INFO Main:50 - Preparando para atualizar tabela
+2023-02-03 16:45:24,980 [main]  INFO Main:55 - Saldo atual da Conta:  20.0
+2023-02-03 16:45:24,980 [main]  WARN Main:56 - alterando saldo da conta
+2023-02-03 16:45:24,982 [main]  INFO Main:59 - Novo Saldo da Conta: 20.0
+2023-02-03 16:45:24,984 [main]  INFO Main:62 - Preparando para atualizar tabela pela 2x. Agora forcando um erro no script
+2023-02-03 16:45:24,985 [main]  INFO Main:67 - Saldo atual da Conta:  35.0
+2023-02-03 16:45:24,985 [main]  WARN Main:68 - alterando saldo da conta
+2023-02-03 16:45:24,986 [main]  INFO Main:71 - Forcando um erro no script
+2023-02-03 16:45:24,986 [main] ERROR Main:78 - Erro ao executar transação
+2023-02-03 16:45:24,986 [main]  WARN Main:81 - Foi executado um rollback das transações
+2023-02-03 16:45:24,987 [main]  INFO Main:87 - Fechando conexao com banco de dados
+2023-02-03 16:45:24,988 [main]  INFO Main:91 - Saldo da Conta: 35.0
+2023-02-03 16:45:59,550 [main]  INFO Main:30 - Abrindo conexao com banco de dados
+2023-02-03 16:45:59,734 [main]  INFO Main:35 - Criando a tabela conta
+2023-02-03 16:45:59,736 [main]  INFO Main:38 - Preparando para popular tabela criada
+2023-02-03 16:45:59,738 [main]  INFO Main:45 - Inserindo conta do Lucas
+2023-02-03 16:45:59,739 [main]  INFO Main:50 - Preparando para atualizar tabela
+2023-02-03 16:45:59,743 [main]  INFO Main:55 - Saldo atual da Conta:  150.0
+2023-02-03 16:45:59,743 [main]  WARN Main:56 - alterando saldo da conta
+2023-02-03 16:45:59,745 [main]  INFO Main:59 - Novo Saldo da Conta: 150.0
+2023-02-03 16:45:59,746 [main]  INFO Main:62 - Preparando para atualizar tabela pela 2x. Agora forcando um erro no script
+2023-02-03 16:45:59,747 [main]  INFO Main:67 - Saldo atual da Conta:  190.0
+2023-02-03 16:45:59,747 [main]  WARN Main:68 - alterando saldo da conta
+2023-02-03 16:45:59,748 [main]  INFO Main:71 - Forcando um erro no script
+2023-02-03 16:45:59,748 [main] ERROR Main:78 - Erro ao executar transação
+2023-02-03 16:45:59,748 [main]  WARN Main:81 - Foi executado um rollback das transações
+2023-02-03 16:45:59,749 [main]  INFO Main:87 - Fechando conexao com banco de dados
+2023-02-03 16:46:24,601 [main]  INFO Main:30 - Abrindo conexao com banco de dados
+2023-02-03 16:46:24,958 [main]  INFO Main:35 - Criando a tabela conta
+2023-02-03 16:46:24,960 [main]  INFO Main:38 - Preparando para popular tabela criada
+2023-02-03 16:46:24,961 [main]  INFO Main:45 - Inserindo conta do Lucas
+2023-02-03 16:46:24,963 [main]  INFO Main:50 - Preparando para atualizar tabela
+2023-02-03 16:46:24,966 [main]  INFO Main:55 - Saldo atual da Conta:  150.0
+2023-02-03 16:46:24,966 [main]  WARN Main:56 - alterando saldo da conta
+2023-02-03 16:46:24,971 [main]  INFO Main:59 - Novo Saldo da Conta: 150.0
+2023-02-03 16:46:24,972 [main]  INFO Main:62 - Preparando para atualizar tabela pela 2x. Agora forcando um erro no script
+2023-02-03 16:46:24,973 [main]  INFO Main:67 - Saldo atual da Conta:  190.0
+2023-02-03 16:46:24,973 [main]  WARN Main:68 - alterando saldo da conta
+2023-02-03 16:46:24,973 [main]  INFO Main:71 - Forcando um erro no script
+2023-02-03 16:46:24,974 [main] ERROR Main:78 - Erro ao executar transação
+2023-02-03 16:46:24,974 [main]  WARN Main:81 - Foi executado um rollback das transações
+2023-02-03 16:46:24,974 [main]  INFO Main:87 - Fechando conexao com banco de dados

@@ -1,0 +1,11 @@
+2023-02-03 16:09:45,741 [main]  INFO Main:38 - Abrindo conexao com o banco de dados
+2023-02-03 16:09:45,967 [main] ERROR Main:67 - Erro ao executar SQL
+2023-02-03 16:10:03,882 [main]  INFO Main:38 - Abrindo conexao com o banco de dados
+2023-02-03 16:10:04,153 [main]  INFO Main:43 - Criando tabela no banco de dados
+2023-02-03 16:10:04,157 [main]  INFO Main:46 - Inserindo animais 1
+2023-02-03 16:10:04,159 [main]  INFO Main:49 - Inserindo animais 2
+2023-02-03 16:10:04,160 [main]  INFO Main:52 - Inserindo animais 3
+2023-02-03 16:10:04,160 [main]  INFO Main:55 - Inserindo animais 4
+2023-02-03 16:10:04,160 [main]  WARN Main:58 - Deletando um Animal
+2023-02-03 16:10:04,167 [main]  INFO Main:61 - Consultando Animal
+2023-02-03 16:10:04,188 [main]  INFO Main:71 - Fechando conexao com o banco de dados
